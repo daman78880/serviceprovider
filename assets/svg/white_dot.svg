@@ -1,0 +1,23 @@
+<!--<svg width="8" height="8" viewBox="0 0 8 8" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter id="dropshadow" height="150%">
+            <feGaussianBlur in="SourceAlpha" stdDeviation="1" />
+            <feOffset dx="0" dy="1" result="offsetblur" />
+            <feComponentTransfer>
+                <feFuncA type="linear" slope="0.5" />
+            </feComponentTransfer>
+            <feMerge>
+                <feMergeNode />
+                <feMergeNode in="SourceGraphic" />
+            </feMerge>
+        </filter>
+    </defs>
+    <circle cx="4" cy="4" r="4" transform="matrix(-1 0 0 1 8 0)" fill="#FFFFFF" filter="url(#dropshadow)" />
+</svg>-->
+
+
+
+
+<svg width="8" height="8" viewBox="0 0 8 8" xmlns="http://www.w3.org/2000/svg">
+<circle cx="4" cy="4" r="4" transform="matrix(-1 0 0 1 8 0)" fill="#FFFFFF"/>
+</svg>
